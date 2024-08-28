@@ -27,6 +27,6 @@
 
 4. Finally, start daemon
   ```
-  growerd
-  grower-cli getinfo
-  grower-cli setgenerate true # to mine
+   growerd
+   grower-cli getinfo
+   grower-cli setgenerate true # to mine
