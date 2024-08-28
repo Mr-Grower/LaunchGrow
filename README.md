@@ -26,7 +26,7 @@
    addnode=213.199.42.151
 
 4. Finally, start daemon
-  ```
+   ```
    growerd
    grower-cli getinfo
    grower-cli setgenerate true # to mine
